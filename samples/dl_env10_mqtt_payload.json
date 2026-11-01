@@ -1,0 +1,25 @@
+{
+  "device_id": "DL-ENV10-01",
+  "model": "DeviceLab DL-ENV10",
+  "product_url": "https://devicelab.vn/san-pham/dl-env10/",
+  "station_code": "KCN_TAMDIEP_NT",
+  "ts": "2026-10-15T10:30:00+07:00",
+  "net": {
+    "type": "4g_lte",
+    "rssi": -68,
+    "ftp_queue_pending": 0
+  },
+  "points": [
+    { "id": "ph", "name": "Do_pH", "val": 7.42, "unit": "pH", "status": "00" },
+    { "id": "cod", "name": "Chi_so_COD", "val": 48.5, "unit": "mg/L", "status": "00" },
+    { "id": "tss", "name": "Chat_ran_TSS", "val": 28.1, "unit": "mg/L", "status": "00" },
+    { "id": "nh4", "name": "Amoni_NH4", "val": 3.82, "unit": "mg/L", "status": "00" },
+    { "id": "temp", "name": "Nhiet_do", "val": 29.6, "unit": "oC", "status": "00" },
+    { "id": "flow", "name": "Luu_luong_ra", "val": 142.8, "unit": "m3/h", "status": "00" }
+  ],
+  "io_state": {
+    "door_open": false,
+    "grid_power_ok": true,
+    "autosampler_triggered": false
+  }
+}
