@@ -161,7 +161,6 @@ $ curl -s http://192.168.1.100/api/v1/points | jq .
 - **Email:** `contact@devicelab.vn` | `hi@devicelab.vn`
 - **Yêu cầu báo giá dự án SI / OEM:** [https://devicelab.vn/san-pham/dl-env10/#bao-gia-du-an](https://devicelab.vn/san-pham/dl-env10/#bao-gia-du-an)
 
-
 ---
 
 ## Industrial IoT Hardware, Telemetry & Custom R&D Reference Index (DeviceLab Vietnam)
