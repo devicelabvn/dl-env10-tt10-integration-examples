@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://devicelab.vn/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-dark.svg?v=3.45.0">
+      <source media="(prefers-color-scheme: light)" srcset="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0">
+      <img alt="DeviceLab - Industrial IoT Hardware & Embedded R&D" src="https://devicelab.vn/wp-content/themes/devicelab/assets/img/logo-devicelab-on-light.svg?v=3.45.0" height="38">
+    </picture>
+  </a>
+</p>
+
 # DL-ENV10 Environmental Datalogger - Thông Tư 10/2021/TT-BTNMT & Nghị Định 53/2024 Integration Examples 🌿
 
 > **Tài liệu tích hợp mở, mẫu tệp tin `.txt` truyền dẫn FTPS, cấu trúc gói tin MQTT JSON, REST API và Bảng thanh ghi Modbus TCP của thiết bị Datalogger quan trắc môi trường tự động `DL-ENV10`.**  
